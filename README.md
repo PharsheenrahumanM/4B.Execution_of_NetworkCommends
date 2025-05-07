@@ -35,7 +35,8 @@ result, unans = traceroute(target,maxttl=32)
 print(result,unans)
 ```
 ## Output
-![trace1](https://github.com/user-attachments/assets/d8ee6c00-e5d9-4642-aedb-d1ad6f9f44be)
+![cn4,3](https://github.com/user-attachments/assets/f2b44ab2-a7e7-4518-b5d5-a9dce402e95b)
+
 
 
 ## Result
