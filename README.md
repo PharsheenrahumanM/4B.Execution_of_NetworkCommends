@@ -35,7 +35,8 @@ result, unans = traceroute(target,maxttl=32)
 print(result,unans)
 ```
 ## Output
-![trace](https://github.com/user-attachments/assets/3b1ded96-51e5-4d88-ba7e-090811953f19)
+![trace1](https://github.com/user-attachments/assets/d8ee6c00-e5d9-4642-aedb-d1ad6f9f44be)
+
 
 ## Result
 Thus Execution of Network commands Performed 
